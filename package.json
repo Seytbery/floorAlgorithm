@@ -1,0 +1,19 @@
+{
+  "name": "practic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.4",
+    "jsdom": "^25.0.1",
+    "jsdom-jscore-rn": "^0.1.9",
+    "svgdom": "^0.1.19"
+  }
+}
