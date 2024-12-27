@@ -1,5 +1,5 @@
 Запуск кода:
-  node heatedFloor.js
+node heatedFloor.js
   
 loadSVG(svgFilePath): Загружает SVG из файла, извлекает все точки из path элемента и возвращает их.
 parseSVGPath(pathString): Парсит строку path SVG и возвращает массив координат точек
